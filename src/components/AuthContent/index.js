@@ -39,7 +39,7 @@ const styles = theme => ({
 		padding: '48px 36px 0',
 	},
 })
-const tabNames = ['Users', 'Sign-in method', 'Templates', 'Usage']
+const tabNames = ['Users', 'Sign-in method', 'Templates', 'Usage', 'Usage']
 function AuthContent({ classes }) {
 	return (
 		<>
